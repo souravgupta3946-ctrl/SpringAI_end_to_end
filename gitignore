@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Maven / Java (springAIDemo backend)
+springAIDemo/target/
+target/
+*.class
+
+# Node / React (ollama-chat-frontend)
+ollama-chat-frontend/node_modules/
+ollama-chat-frontend/dist/
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
